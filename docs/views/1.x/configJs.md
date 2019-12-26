@@ -36,6 +36,9 @@ module.exports = {
   themeConfig: {
     // 备案号
     record: '京ICP备17067634号-1',
+    recordLink: 'ICP备案指向链接',
+    cyberSecurityRecord: '公安部备案文案',
+    cyberSecurityLink: '公安部备案指向链接'
     // 项目开始时间，只填写年份
     startYear: '2017'
   }
